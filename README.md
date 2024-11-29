@@ -29,5 +29,4 @@ This project uses sentiment analysis on Reddit stock posts to predict stock move
 - Integrating stock price data for more accurate prediction.
 - Using more advanced machine learning models or deep learning approaches for better performance.
 
-## Demo Video (Optional)
-- A demo video can be provided to showcase the steps of the project.
+
